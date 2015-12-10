@@ -4,6 +4,7 @@ import org.junit.Test;
 
 public class TestFibonacci
 {
+	error
 	@Test
 	public void test()
 	{
